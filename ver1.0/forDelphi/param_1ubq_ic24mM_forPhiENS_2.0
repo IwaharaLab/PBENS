@@ -1,0 +1,15 @@
+gsize=257
+scale=2.0
+temperature=25
+out(phi,file=1ubq_ic24mM_pot_2.0.cube,format=cube)
+in(modpdb4,file="1ubq_forDelphi.pqr",format=pqr)
+Center(unit=15)
+indi=2.0
+exdi=78.54
+prbrad=1.4
+salt=0.024
+ionrad=2.0
+bndcon=2
+maxc=0.0001
+nonit=100
+energy(s,c,g)
