@@ -18,17 +18,17 @@ global pqrFile phiENSfile barPhiFile Te
 fileFormat = 'dx';
 
 % Electrostatic potentials file
-espFile = 'forApbs/1ubq_ic24mM_pot2.0.dx';
+espFile = 'forAPBS/1ubq_ic24mM_pot2.0.dx';
 
 %% PQR file and atom specification
-pqrFile = 'forApbs/1ubq.pqr';
+pqrFile = 'forAPBS/1ubq.pqr';
 
 % Atom name for ENS calculation
 % This has be specified with double quotation marks
 Htype = "H";
 
 %% Probe properties
-% Radius for PROXYL derivatives: 3.5 Å is empirically optimal
+% Radius for PROXYL derivatives: 3.5 Ã… is empirically optimal
 rProbe = 3.5;
 
 % Charge valence of Probe 1
