@@ -29,7 +29,7 @@ If you use APBS
 %%%%%%%%%%%%%%%%%%
 1. Go to the directory 'ver1.0/forAPBS'
 2. Edit 'runPDB2PQR_APBS_1ubq_ic24mM.com' and give appropriate paths for 'pdb2pqr30' and 'apbs' programs on your computer.
-3. Run 'runPDB2PQR_APBS_1ubq_ic24mM.com'.
+3. Run 'sh runPDB2PQR_APBS_1ubq_ic24mM.com'.
 4. Go to the directory 'ver1.0'.
 5. Run the MATLAB script 'inputPBENS_1ubq_ic24mM_Apbs.m'.
 6. Check the output files in the 'outputData' directory
@@ -39,7 +39,7 @@ If you use Delphi
 %%%%%%%%%%%%%%%%%%
 1. Go to the directory 'ver1.0/forDelphi'
 2. Edit 'runDelphi_1ubq_ic24mM.com' and give appropriate paths for 'pdb2pqr30' and 'delphi' programs on your computer.
-3. Run 'runDelphi_1ubq_ic24mM.com'.
+3. Run 'sh runDelphi_1ubq_ic24mM.com'.
 4. Go to the directory 'ver1.0'.
 5. Run the MATLAB script 'inputPBENS_1ubq_ic24mM_Delphi.m'.
 6. Check the output files in the 'outputData' directory
