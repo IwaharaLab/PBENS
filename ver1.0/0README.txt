@@ -24,3 +24,4 @@ An input file for PBENS to calculate phi_ENS potentials from the DelPhi output a
 'outputData':
 A directory used for output files from PBENS. 
 
+This GitHub package does not contain any output files. If you would like to get our output files, send a request to j.iwahara@utmb.edu.
