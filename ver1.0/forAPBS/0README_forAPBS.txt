@@ -12,7 +12,7 @@ The calculations require installation of the following programs:
 - PDB2PQR (https://pdb2pqr.readthedocs.io/en/latest/getting.html)
 - python  (a version compatible with PDB2PQR)
 
-If PDB2PQR does not work on your computer, you can use the PDB2PQR server: https://server.poissonboltzmann.org/pdb2pqr
+If you would like to get our output file '1ubq_ic24mM_pot2.0.dx', send an email to j.iwahara@utmb.edu
 
 Junji Iwahara
 
